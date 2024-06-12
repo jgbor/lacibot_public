@@ -1,0 +1,8 @@
+Question,Human Answer,AI Answer,AI Evaluation
+Ki a tanszéki felelős?,Dr. Blázovics László,A tanszéki felelős Dr. Blázovics László.,CORRECT
+Hol találom meg?,QB223-ban,Dr. Blázovics Lászlót a QB.222-es irodában találhatod meg.,INCORRECT
+Mennyit kell dolgozni mérnökinfó alapszakon?,320 órát (8 munkahét),A mérnökinformatikus alapképzési szakon legalább nyolc hét időtartamú szakmai gyakorlatot kell teljesíteni.,CORRECT
+És villamosmérnökként?,240 órát (6 hét),A villamosmérnöki alapképzési szakon legalább hat hét (240 munkaóra) időtartamú szakmai gyakorlatot kell teljesíteni.,CORRECT
+Hetente mennyit lehet maximum?,"Nyáron 40 órát, szorgalmi időszakban 20 órát",Szorgalmi időszakban maximum heti 20 óra gyakorlati munka végezhető.,INCORRECT
+Mikor lehet kezdeni a nyári gyakorlatot?,Vizsgaidőszak végétől javasolt,"A nyári szakmai gyakorlatot ajánlatos a vizsgaidőszak befejezése utáni hét első munkanapján kezdeni, de lehet előbb is. A szakmai gyakorlat időpontja a mérnökinformatikus és a villamosmérnöki alapképzési szakon a képzési tervben van meghatározva.",CORRECT
+"Ha végzek, mit kell leadni?","Munkanaplót, igazolást a gyakorlat elvégzéséről, szakmai beszámolót","A szakmai gyakorlat befejezése után a kitöltött feladatlapot és az igazoló lapot kell benyújtania. Ezen felül szükséges a gyakorlati munka részletes leírását tartalmazó dokumentum, valamint a gyakorlati munka értékelése.",CORRECT

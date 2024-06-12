@@ -1,0 +1,11 @@
+Question,Human Answer,AI Answer,AI Evaluation
+Miket kell leadni a gyakorlathoz?,"Munkanaplót, igazolólapot, egy beszámolót, valamint még a gyakorlat megkezdése előtt a feladatlapot.","A hallgatónak be kell nyújtania a munkanaplót, a beszámolót és az értékelést a tanszékére.",INCORRECT
+Mennyit kell dolgozni a gyakorlat elfogadásához?,240 vagy 320 órát a képzésedtől függően.,"A szakmai gyakorlat lehet hat vagy nyolc hetes, 240 vagy 320 munkaórányi.",CORRECT
+Félév közben mennyit szabad hetente dolgozni?,20 órát engedélyezett.,A szorgalmi időszakban maximum heti 20 óra gyakorlati munka végezhető.,CORRECT
+Ki a tanszéki felelős?,Dr. Blázovics László,A tanszéki felelős Dr. Blázovics László.,CORRECT
+Tárgynak felel meg a szakmai gyakorlat?,"Igen, nyári gyakorlat esetén az őszi, egyébként a gyakorlat félévében kell felvenni Neptunban a tárgyat.","Sajnos erre nem tudok válaszolni, kérdezz mást a BME VIK szakmai gyakorlattal kapcsolatban.",INCORRECT
+"Van szabály arra, hogy milyen témájú gyakorlatot kell választani?",A képzéshez kapcsolódó témájú gyakorlatot kell felvenni.,"A szakmai gyakorlat témájának kapcsolódnia kell a szakdolgozat témájához, de elkülöníthetőnek kell maradnia.",INCORRECT
+"Van szabály arra, hogy mennyit kell dolgozni?","240 vagy 320 órát kell a képzésedtől függően, nyáron heti 40 órát lehet, félév közben heti 20 órát maximum.",A szorgalmi időszakban maximum heti 20 óra gyakorlati munka végezhető.,INCORRECT
+"Mi van, ha nem fejezem be a szakmai gyakorlatot a nyáron?",Az őszi félévben befejezhető.,"Sajnos erre nem tudok válaszolni, kérdezz mást a BME VIK szakmai gyakorlattal kapcsolatban.",INCORRECT
+Mikor kell leadni a szakmai gyakorlati beszámolót?,"A szakmai gyakorlat befejeztével, a félév végéig","A dokumentumokban nem szerepel információ arról, hogy mikor kell leadni a szakmai gyakorlati beszámolót. Kérlek, érdeklődj a szakmai gyakorlatot szervező tanszéken.",INCORRECT
+Félév közben is el lehet kezdeni a szakmai gyakorlatot?,"Igen, el lehet kezdeni akkor is.","Igen, a szakmai gyakorlat a szorgalmi időszakban is elvégezhető, a specializációra kerülés után.",CORRECT

@@ -1,0 +1,236 @@
+Szabályzat  
+Az alapképzés  szakmai gyakorlatának lebonyolítására a Villamosmérnöki és Informatikai Karon 
+Érvényes a tanulmányaikat 2014 szeptemberében  vagy azután kezdett hallgatók esetére  
+Elfogadta  a Kari Tanács 2008 . január 15-i ülésén 
+Módosítva a Kari Tan ács 2017. március  21-i ülésén  
+ 
+1. Kapcsolódó jogszabályok, dokumentumok  
+2011. évi CCIV. törvény a nemzeti felsőoktatásról:  
+50. § (1) „ A felsőoktatási intézmény annak a hallgatónak, aki a tanter vben előírt tanulmányi 
+és vizsgakövetelményeket és az előírt szakmai gyakorlatot – a nyelvvizsga letétele, a 
+Szakdolgozat, diplomamunka elkészítése kivételével – teljesítette, és az előírt krediteket – a 
+Szakdolgozathoz rendelt kreditek kivételével – megsz erezte, végbizonyítványt állít ki 
+(abszolutórium). ” 
+50. § (3) „ A hallgató a végbizonyítvány megszerzését követően bocsátható záróvizsgára. ” 
+A Kormány 230/2012. (VIII. 28.) Korm. rendelete a f elsőoktatási szakképzésről és a 
+felsőoktatási képzéshez kapcsolód ó szakmai gyakorlat egyes kérdéseiről . 
+2011. évi CLV. Törvény a szakképzési hozzájárulásról és a képzés fejlesztésének 
+támogatásáról . 
+2006. évi X. törvény a szövetkezetekről.  2 Alapképzési és mesterképzési szakok képzési és kimeneti követelményei (KKK)  – 
+18/2016. (VIII. 5.) EMMI rendelet a felsőoktatási szakképzések, az alap - és 
+mesterképzések képzési és kimeneti követelményeiről  – 2017.03.01-én hatályos állapota : 
+ 
+Villamosmérnöki alapképzési szak : 
+„A szakmai gyakorlat legalább hat hét időtartamú, szakmai gya korlóhelyen szervezett 
+gyakorlat. A szakmai gyakorlat kritérium követelmény. ” 
+ 
+Mérnökinformatikus  alapképzési szak : 
+„A szakmai gyakorlat legalább nyolc hét időtartamú, szakmai gyakorlóhelyen szervezett 
+gyakorlat. ” 
+ 
+A BME tanulmányi és vizsgaszabályzata  (TVSZ) – 2017.03.01 -én hatályos állapota :  
+„21. § [A kritériumkövetelmény] (3) A képzési és kimeneti követelmények eltérő 
+rendelkezésének hiányában kritériumkövetelmény a szakmai gyakorlat ”. 
+ 
+Kari Tanácsi határozat  
+”A szakmai gyakorlat megvalósításának iránye lvei a villamosmérnöki BSc képzésben ”. 
+Elfogadva: 2007 . június 26.  
+Kari Tanácsi határozat  
+„Tájékoztató a s zakmai gyakorlat lebonyolításának előkészületeiről a Villamosmérnöki 
+Szakon. ” Elfogadva: 2007. november 13.  
+2. A szabályzat hatásköre  
+A szabályzat hat álya kiterjed a BME Villamosmérnöki és Informatikai Karán,  a 
+villamosmérnöki alapképzési szakon  és a mérnökinformatikus  alapképzési szakon  a nappali 
+alapképzésben (BSc) 2014/2015 tanév első félévétől részt  vevő hallgatók  szakmai 
+gyakorlattal kapcsolatos üg yeire. A szabályzat a Kari Tanács elfogadó határozata után lép 
+életbe. A szabályzatot, a szerzett tapasztalatok alapján, évente felül kell vizsgálni.  
+3. A szakmai gyakorlat célja  
+„A szakmai gyakorlat célja a szakképzettségnek megfelelő munkahelyen, munkakö rben az 
+elméleti és gyakorlati ismeretek összekapcsolása, a szakma gyakorlásához szükséges 
+munkavállalói kompetenciák munkafolyamatokban történő fejlesztése, az anyag -eszköz -
+technológia i ismeretek és gyakorlati jártasságok, valamint a munkafolyamatokban a személyi 
+kapcsolatok és együttműködés, feladatmegoldásokban az értékelő és önértékelő magatartás, 
+az innovációs készség fejlesztése. ” 
+A hat, illetve nyolc hetes (240 vagy 320 munka órás) szakmai gyakorlat során a hallgatók a tanszéki 
+felelős és a gyakorlóhelyi  konzulens által meghatározott feladatot oldanak meg. Feladatuk 
+kapcsolódhat szakdolgo zatukhoz, TDK dolgozatukhoz, önálló labor atóriumi  feladatukhoz, de 
+azoktól jól elkülöníthetőnek kell lennie.  
+4. A szakmai gyakorlat gyakorlóhelyei  és témái  
+A kar a szakmai gyakorlatot lebonyolító gyakorlóhelyekkel együttműködési megállapodást 
+köt (kivéve a külföldön végzett gyakorlat).  Az iskolaszövetkezeten keresztül végzett gyakorlat 
+esetén a gyakorlóhely mellett a kar az iskolaszövetkezettel is együttműködési megállapodás t 3 köt a szakmai gyakorlat szervezésével kapcsolatos feladatokat ellátására . A  
+gyakorlóhelyekkel és a z iskolaszövetkezetekkel  kötött együttműködési megállapodások 
+listáját a kar a honlapján közzéteszi.  A hallgató a szakmai gyakorlatát csak akkor kezdheti 
+meg, amennyiben a szakmai gyakorlóhely  illetve az iskolaszövetkezet  és a kar között 
+együttműködési megállapodás van érvényben  (kivéve a külföldön végzett gyakorlat).  A 
+jelentkezés menetét a 7. pont tartalmazza.  
+4.1. Tanszékek által felajánlott  gyakorlóhelyek  és témák  
+Szakmai gyakorlat i témák  biztosítása a lapvetően a  specializáció kat/ágazatokat gondozó 
+tanszékek feladata, azaz szakmai gyakorlat i témá kat, gyakorlóhelyeket  ajánlanak  fel a  
+specializáción /ágazato n lévő  hallgatók számára a karral  kapcsolatban álló szakmai 
+gyakorlóhelyek tanszéki szakterületbe illő gyakorlati témái  közül.  A rendelkezésre álló 
+gyakorlóhelyekről  és témákról  tanszéki összesítés készül. A gyakorlóhelyeket  és témákat a 
+tanszékek honlapjain közzé kell tenni. A tanszéki szintű téma választás  nyilvántartása a 
+tanszéki  szakmaigyakorlat -felelős  feladata.  A témák  összegyűjt ésében a kar számít 
+együttműködésre  a VIK -HK-val és a Simonyi Károly Szakkol légium mal is . 
+4.2. Hallgatók által választott gyakorlóhelyek  és témák  
+Megfelelő feltételek teljesülé se esetén a  kar elfogadja, ha a hallgató maga választja meg a 
+szakmai gyakorlat gyakorlóhelyét  és témáját.  A szakmai gyakorlat ebben az esetben is 
+belföldön csak olyan gyakorlóhelyen végezhető, mellyel a kar együt tműködési megállapodást 
+kötött.  
+4.3. Iskola szövetkezeten keresztül végzett gyakorlat  
+A szövetkezetekről szóló 2006. évi X. törvény  módosítása lehetővé teszi a szakmai gyakorlat 
+végzését iskolaszövetkezeten keresztül. A témát ebben az esetben is a gyakorlóhely kell, hogy 
+biztosítsa a 4. melléklet sz erinti feladatlap kitöltésével, amelyet a tanszéki szakmaigyakorlat -
+felelőssel jóvá kell hagyatni. A hallgató a téma jóváhagyatását és ezután a  szakmai 
+gyakorlatát csak akkor kezdheti meg, amennyiben a kar a szakmai gyakorlóhel lyel valamint  
+az iskolaszövet kezet tel is együttműködési megállapodást kötött, illetve érvényes 
+együttműködési megállapodás fennáll . A szakmai gyakorlat csak akkor fogadható el, ha a 
+gyakorlat elvégzését bizonyító igazolásokat a szakmai gyakorlóhely állítja ki, nem az 
+iskolaszövetkezet . 
+4.4. Külföld ön végzett gyakorlat  
+Szakmai gyakorlat külföldön is végezhető. A külföldi szakmai gyakorlat elvégzéséhez 
+kérelmet (6. melléklet) kell benyújtani a kari felelőshöz , a gyakorlat megkezdése előtt  
+legalább egy hónappal . A kari felelős dönt a gyak orlóhely  alkalmasságáról , majd  a tanszéki 
+felelős dönt a téma alkalmasságáról . A külföldön végzett szakmai gyakorlat időtartama 
+általában összefüggő , legalább  hat, illetve nyolc  hét. Külföldön végzett szakmai gyakorlat 
+esetén együttműködési megállapodás me gkötése nem kötelező, de lehetséges.  
+5. A szakmai gyakorlat időpontjai  
+A szakmai gyakorlat céljánál megfogalmazott elvek szerint a gyakorlat elsősorban a választott 
+specializáció hoz, illetve a  hallgató  szakdolgo zat, TDK dolgozat  vagy önálló labor atóriumi  
+témájá hoz kötődik. A szakmai gyakorlat 5.1–5.3. pontokban részletezett időpontj ai egyben 
+javasolt preferencia sorrendet is jelent enek .  4 A Budapesten  vagy környékén végzett nyári szakmai gyakorlat idejére biztosítani kell a 
+kollégiumi elhelyezést a TJSZ 18. § 8. pontja alapján a távoli lakhelyű hallgatók számára.  
+Vidéki gyakorlóhelyen  végzett szakmai gyakorlat esetén törekedni kell arra, hogy a gyakorlat 
+idejére a gyakorlóhely  a hallgatóknak szállást biztosítson, ha a telephely távol esik a hallgató 
+lakhelyét ől. 
+5.1. Szakmai gyakorlat a mintatanterv szerinti 6. és 7. félév közötti nyáron  
+A nyári szakmai gyakorlat hat (villamosmérnöki BSc) , illetve nyolc  (mérnökinformatikus  
+BSc) hétig, vagy ezeknél  hosszabb ideig tart , és ajánlatos, hogy a vizsgaidőszak befejez ése 
+utáni hét első munkanapján kezdődjön.  
+Ekkor a hallgatók főleg a tanszékek  által felajánlott gyakorlóhelyi  témák közül választhatnak, 
+de folyathatják önálló labor atóriumi  témájukat, készül hetnek a következő félévi szakdolgo zat 
+írására, illetve előkészít hetik  esetleges TDK dolgozatukat is, gyakorlati orientációval.  A 
+szakmai gyakorlatnak azonban ezektől jól elkülöníthetőnek kell lennie.  
+5.2. Szakmai gyakorlat a szorgalmi időszakban  
+A hallgatóknak lehetőségük van  a szakmai gyakorlat egészének vagy egy rész ének 
+elvégzésére a szorgalmi időszakban is  a specializációra kerülés után . A maximálisan 
+engedélyezhető heti munkamennyiség 20 óra, szigorúan az órarendi elfoglaltságon kívül.  A 
+szorgalmi időszakban kiesett szakmai gyakorlati idő a pótlási héten pótolandó.  Ajánlatos, de 
+nem kötelező, hogy az ekkor végzett szakmai gyakorlat témája a szakdolgo zat témájához 
+kapcsolódjon , de attól mindenképpen jól elkülöníthető maradjon.  
+5.3. Szakmai gyakorlat a mintatanterv szerinti 7. félév után  
+Ha a hallgató a mintatanterv s zerinti 7. félév lezárásáig nem teljesítette a szakmai gyakorlatot, 
+lehetősége van azt azután is elvégezni. Végbizonyítványt viszont  csak akkor  kap, ha a 
+szakmai gyakorlatot teljesítette. A szakmai gyakorlat időtartama ez esetben összefüggő is 
+lehet; hat, illetve nyolc  hét a megfelelő szakokon . 
+6. Tantárgyfelvétel a Neptun  rendszerben  
+A „Szakmai gyakorlat ” tantárgyat fel kell venni a Neptun rendszerben az alábbiak szerint:  
+ a hallgató  specializációjának , ezen belül az ágazatának (ha van ilyen) megfelelő 
+„Szakmai gyakorlat ” tantárgyat kell felvenni;  
+ a szorgalmi időszakban befejezett gyakorlat esetében a tantárgyat az adott félévben 
+lehet leghamarabb  felvenni;  
+ nyári időszakban befejezett szakmai gyakorlat esetében a tantárgyat az azt követő őszi 
+félévben lehet leghamarabb  felvenni.  
+7. Jelentkezés a szakmai gyakorlatra  
+A jelentkezési lap ok és az együttműködési megállapodás minták  a tanszéki illetve kari 
+honlapról letölthető k. A jelentkezési lapok  elektronikusan is leadható k. Az alábbi pontokban 
+jelzett  határidő kön túli jelentkezés nem fogadható el. A szakmai gyakorlat utólagos 
+elfogadására lehetőség nincs.  
+7.1. Jelentkezés a tanszékek által felkínált gyakorlóhelyek en végzendő gyakorlatra  
+A tanszéki felelősnél kell a gyakorlatra jelentkezni a 3. melléklet szerinti jelentkezési lap 
+kitöltésével  a gyakorlat tervezett megkezdése előtt két héttel . Ha egy témára többen 
+jelentkeznek, a tanszéki felelős dönt az érdekeltek bevonásával a téma odaítéléséről.  A téma 5 odaítélésével együtt , vagy közvetlenül után a a gyakorlat sorá n tervezett  munkákat a tanszéki  
+felelős  és a gyakorlóhelyi  konzulens közösen összeállítja és dokumentálja a 4. melléklet 
+szerinti feladatlapon.  A feladatlap véglegesítésének határideje a szakmai gyakorlat tervezett 
+megkezdés e előtt  1 hét . A tanszék, illetv e a tanszéki szakmaigyakorlat -felelős a hallgató 
+gyakorlatának koordinálására, ellenőrzésére tanszéki konzulenst jelölhet ki.  
+7.2. Jelentkezés a hallgatók által választott , saját  gyakorlóhelyen végzendő gyakorlatra  
+a) belföldi  szakmai gyakorlóhelyen közve tlenül végzendő  gyakorlat:  
+- Amennyiben nincs érvényben együttműködési megállapodás  a gyakorlóhellyel, 
+kérvényezni kell annak megkötését a  tanszéki szakmaigyakorlat -felelősnél az 1.  
+melléklet szerinti  kérelem kitöltésével és beadásával. A beadás időpontját  úgy kell 
+megválasztani, hogy az együttműködési megállapodás aláírásra kerüljön a gyakorlat 
+tervezett megkezdése előtt legalább egy héttel. A  leadott  kérelem alapján a tanszéki 
+szakmaigyakorlat -felelős előkészíti az együttműködési megállapodást , és eljutta tja a 
+gyakorlóhelynek aláírásra. Az aláírt példányok visszaérkezése után a tanszéki felelős 
+intézkedik a tanszékvezetői és a dékáni aláíratásról.  
+- Érvényben lévő együttműködési megállapodás esetén , illetve a megállapodás megkötése 
+után a tanszéki szakmai gyakorlat felelő shöz kell benyújtani a 4.  melléklet szerinti  
+feladatlapot, amely tartalmazza a gyakorlóhely adatai t valamint az elvégzendő 
+gyakorlati munka részletes leírását.  A feladatlap leadásának határideje a gyakorlati 
+munka megkezdése előtt egy hét. 
+b) belföldi  szakmai gyakorlóhelyen , iskolaszövetkezeten keresztül végzendő  gyakorlat  
+- Amennyiben nincs érvényben együttműködési megállapodás a gyakorlóhellyel  (szakmai 
+gyakorlati képzési feladatok ellátására ), illetve az iskolaszövetkezettel  (szakmai 
+gyak orlat szervezésével kapcsolatos feladatokat ellátására ), kérvényezni kell annak 
+megkötését a tanszéki szakmaigyakorlat -felelősnél az 1.  melléklet szerinti  kérelem 
+kitöltésével és beadásával. A kérelmet külön ki kell tölteni a gyakorlóhelyre , és külön az  
+iskolaszövetkezet re vonatkozóan , ha egyikkel sincs érvényes együttműködési 
+megállapodás. Ha a gyakorlóhellyel megállapodás  már fennáll, akkor a  kérelmet csak az 
+iskolaszövetkezetre vonatkozóan kell benyújtani.  A beadás időpontját úgy kell 
+megválasztani, hog y az együttműködési megállapodás /megállapodások  aláírásra 
+kerüljön /kerüljenek  a gyakorlat tervezett megkezdése előtt legalább egy héttel. A  leadott  
+kérelem alapján a tanszéki szakmaigyakorlat -felelős előkészíti az együttműködési 
+megállapodás (oka)t , és elju ttatja a gyakorlóhelynek  illetve az iskolaszövetkezetnek a 
+megfelelőket  aláírásra. Az aláírt példányok visszaérkezése után a tanszéki felelős 
+intézkedik a tanszékvezetői és a dékáni aláíratásról.  
+- Érvényben lévő együttműködési megállapodás ok esetén, illet ve a megállapodás (ok) 
+megkötése után a tanszéki szakmai gyakorlat felelő shöz kell benyújtani a 4.  melléklet 
+szerinti  feladatlapot, amely tartalmazza a gyakorlóhely adatait valamint az elvégzendő 
+gyakorlati munka részletes leírását. A feladatlap leadásának határideje a gyakorlati 
+munka megkezdése előtt egy hét. 
+c) külföld ön végze ndő szakmai gyakorlat  
+A kari felelősnél kell a gyakorlat ot engedélyeztetni  a 6. melléklet szerinti  kérelem  
+benyújtásával. Elfogadás után a  4. melléklet szerinti  feladatlap ot kell a t anszéki 
+szakmaigyakorlat -felelősnek benyújtani . A kérelem  (6. melléklet)  beadásának határideje a 
+gyakorlat tervezett megkezdése előtt 1 hónap. A feladatlap  beadásának határideje a 
+gyakorlat tervezett  megkezdése előtt 1 hét.  6 8. A szakmai gyakorlat végrehajt ása 
+A szakmai gyakorlat során elvégzendő munkákat  a tanszéki  felelős  és a gyakorlóhelyi  
+konzulens által  összeállított feladatlap (4. melléklet) tartalmazza.  
+A hallgatók a szakmai gyakorlat alatt napra lebontott munkanaplót vezetnek. A munkanapló 
+hitelesség ét a szakmai gyakorlat végén a gyakorlóhelyi  konzulens aláírásával igazolja.  A 
+munkanaplót iskolaszövetkezeten keresztül végzett gyakorlat esetén is a gyakorlóhelyi 
+konzulensnek kell aláírnia.  
+A hallgatók a szakmai gyakorlat alatt a gyakorlóhelyi  konzulens  felügyelete és irányítása 
+mellett dolgoznak. A munkakezdésre, befejezésre a gyakorlóhelyi  munkarend előírásai a 
+mértékadók.  A hallgatók kötelesek a hatályos  gyakorlóhelyi  baleset - és munkavédelmi 
+szabályokat betartani.  
+9. A szakmai gyakorlat elfogadása, értékelése  
+A szakmai gyakorlat végén a hallgatók 15–20 oldalas írásos beszámolót készítenek. A 
+beszámoló a BME bármely oktatási nyelvén megírható (magyar, angol, francia, német és 
+orosz nyelven), függetlenül attól, hogy a szakmai gyakorlat mely országban v alósult meg . 
+Idegen nyelvű beszámoló készítéséhez a tanszéki felelős előzetes hozzájárul ása szükséges . A 
+beszámolót a gyakorlóhelyi  konzulens aláírásával igazolja , a munkáról rövid értékelést készít  
+(5. melléklet) . Iskolaszövetkezeten keresztül végzett gya korlat esetén is a gyakorlóhelyi 
+konzulens állítja ki  az igazolást , és ő végzi az értékelést is. A munkanaplót , a beszámolót  és 
+az értékelést  a hallgató anyatanszékére kell benyújtani . A beadási határidőt a tanszéki 
+szakmaigyakorlat -felelős határozza meg , figyelembe véve az egyetemi munkarendet (pl. nyári 
+leállás).  A beszámoló elfogadásáról a tanszéki  felelős dönt , de előtte azt a hallgat ó tanszéki  
+konzulensével véleményeztetheti. Az elfogadást a tanszéki felelős igazolja az aláírás  
+bevitelével  a Neptunba . 
+10. A tanszékek feladatai  
+ A szakmai gyakorlattal kapcsolatos  feladatok koordinálására tanszéki 
+szakmaigyakorlat -felelős t jelölnek ki.  
+ Előkészítik , és a dékán elé terjesztik aláírásra a gyakorlóhelyekkel illetve az 
+iskolaszövetkezetekkel  kötendő együttműköd ési megállapodási szerződés eket, 
+szerződésmódosításokat. A szerződés eket aktualizálják, amennyiben a szakmai 
+gyakorlóhely nyilvántartott adataiban változás történik . A megállapodások  adatait 
+továbbítják a kari felelős felé.  
+ Összegyűjtik , és a tanszéki honl apon közzéteszik  a tanszék  szakterületébe illő szakmai 
+gyakorlat témá kat. 
+ Fogadják a hallgatók jelentkezését , elvégzik besorolásukat. A hallgatókat ellátják a 
+munkakezdéshez szükséges információkkal .  
+ A tanszékek a hallgató szakmai gyakorlatának ellenőrzés ére tanszéki konzulenst 
+jelölhetnek ki, praktikusan a hall gató szakdolgo zat, önálló labor atórium  vagy  TDK 
+munka témavezetőjét .  
+ Az írásos beszámolók alapján értékelik a szakmai gyakorlatot, döntenek annak 
+elfogadásáról. A szak mai gyakorlat sikeres elvégzés ét igazolj ák az aláírás bevitelével a 
+Neptunba. A tanszéki felelős a szemeszterek végén  összesítő jelentést készít  a szakmai 
+gyakorlatról , amelyet el küld a kari felelősnek  is. 7 11. A kari szakmaigyakorlat -felelős  feladatai  
+ Feladata a szakmai gyakorlat zökk enőmentes lebonyolításának felügyelete.  
+ Naprakészen nyilvántartja a  szakmai gyakorlat i gyakorlóhelyeket , illetve  a 
+gyakorlóhelyekkel és iskolaszövetkezetekkel kötött együttműködési megállapodásokat . 
+ Tájékoztató t készít a  hallgatóság számára a szakmai gyako rlat lebonyolításáról . 
+ Kidolgozza és rendszeresen felülvizsgálja a szükséges szabályzatokat és űrlapokat.   
+ Indokolt egyedi esetekben engedélyezheti a szabályzattól történő eltérést.

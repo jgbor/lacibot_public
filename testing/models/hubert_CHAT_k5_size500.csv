@@ -1,0 +1,8 @@
+Question,Human Answer,AI Answer,AI Evaluation,ROUGE2,ROUGEL
+Ki a tanszéki felelős?,Dr. Blázovics László,Dr. Blázovics László,CORRECT,"{'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0)}","{'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}"
+Hol találom meg?,QB222-ben,QB.222-es irodában,CORRECT,"{'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0)}","{'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+Mennyit kell dolgozni mérnökinfó alapszakon?,320 órát (8 munkahét),Hallgató,INCORRECT,"{'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0)}","{'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+És villamosmérnökként?,240 órát (6 hét),Dr. Blázovics László,INCORRECT,"{'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0)}","{'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+Hetente mennyit lehet maximum?,"Nyáron 40 órát, szorgalmi időszakban 20 órát",20 óra,CORRECT,"{'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0)}","{'rougeL': Score(precision=0.5, recall=0.09090909090909091, fmeasure=0.15384615384615385)}"
+Mikor lehet kezdeni a nyári gyakorlatot?,Vizsgaidőszak végétől javasolt,A vizsgaidőszak befejezése utáni hét első munkanapján,CORRECT,"{'rouge2': Score(precision=0.09090909090909091, recall=0.16666666666666666, fmeasure=0.11764705882352942)}","{'rougeL': Score(precision=0.25, recall=0.42857142857142855, fmeasure=0.3157894736842105)}"
+"Ha végzek, mit kell leadni?","Munkanaplót, igazolást a gyakorlat elvégzéséről, szakmai beszámolót",nem fordulok időben a gyakorlat felelőshöz,INCORRECT,"{'rouge2': Score(precision=0.125, recall=0.07142857142857142, fmeasure=0.09090909090909091)}","{'rougeL': Score(precision=0.2222222222222222, recall=0.13333333333333333, fmeasure=0.16666666666666669)}"

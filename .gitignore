@@ -1,0 +1,14 @@
+.idea/
+/.ipynb_checkpoints/
+venv/
+.venv/
+*.bin
+res/chroma/
+lacibotframework/.env
+mt5 training/full_trained_100/
+mt5 training/full_trained_30/
+mt5 training/full_trained_default/
+mt5 training/peft_trained_default/
+res/secret/
+lacibotframework/res/chroma/
+docs/Word/*.docx

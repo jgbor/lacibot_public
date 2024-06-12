@@ -1,0 +1,8 @@
+Question,Human Answer,AI Answer,AI Evaluation
+Ki a tanszéki felelős?,Dr. Blázovics László,A tanszéki felelős Dr. Blázovics László.,CORRECT
+Hol találom meg?,QB222-ben,Dr. Blázovics Lászlót a QB.222-es irodában találod meg.,CORRECT
+Mennyit kell dolgozni mérnökinfó alapszakon?,320 órát (8 munkahét),"A tanszéki felelős, Dr. Blázovics László elérhetősége a QB.222-es irodában található, és a 463-1648-as telefonszámon érhető el. Azonban a mennyiségét, hogy mennyit kell dolgozni az alapszakon ahhoz, hogy elérd a tanszéki felelőst, nem található információ a rendelkezésemre álló dokumentumrészletekben.",INCORRECT
+És villamosmérnökként?,240 órát (6 hét),"Sajnos erre nem tudok válaszolni, kérdezz mást a BME VIK szakmai gyakorlattal kapcsolatban.",INCORRECT
+Hetente mennyit lehet maximum?,"Nyáron 40 órát, szorgalmi időszakban 20 órát","Sajnos erre nem tudok válaszolni, kérdezz mást a BME VIK szakmai gyakorlattal kapcsolatban.",INCORRECT
+Mikor lehet kezdeni a nyári gyakorlatot?,Vizsgaidőszak végétől javasolt,A nyári gyakorlatot ajánlatos a vizsgaidőszak befejezése utáni hét első munkanapján kezdeni.,CORRECT
+"Ha végzek, mit kell leadni?","Munkanaplót, igazolást a gyakorlat elvégzéséről, szakmai beszámolót",A szakmai gyakorlat befejezése után leadni kell az igazoló lapot a szakmai gyakorlatot szervező tanszéken.,CORRECT

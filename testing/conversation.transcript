@@ -1,0 +1,491 @@
+[
+  {
+    "type": "conversationUpdate",
+    "membersAdded": [
+      {
+        "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+        "name": "Bot"
+      },
+      {
+        "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+        "name": "User"
+      }
+    ],
+    "membersRemoved": [],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "0382a570-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:45:58+01:00",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "timestamp": "2023-12-01T21:45:58.855Z",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "Szia! Lacibot vagyok, kérdezz a BME VIK szakmai gyakorlatáról!",
+    "inputHint": "acceptingInput",
+    "replyToId": "0382a570-9093-11ee-a05b-3ffae79d6c94",
+    "id": "0387fca0-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:45:58+01:00",
+    "timestamp": "2023-12-01T21:45:58.890Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "1701467165331pt8glfqho2",
+      "clientTimestamp": "2023-12-01T21:46:05.331Z"
+    },
+    "text": "Mennyit kell dolgozni?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:46:05+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:46:05.355Z",
+    "entities": [
+      {
+        "requiresBotState": true,
+        "supportsListening": true,
+        "supportsTts": true,
+        "type": "ClientCapabilities"
+      }
+    ],
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "076277b0-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A szakmai gyakorlat során a hallgatónak heti 40 órát kell dolgoznia.",
+    "inputHint": "acceptingInput",
+    "replyToId": "076277b0-9093-11ee-a05b-3ffae79d6c94",
+    "id": "08667a30-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:46:07+01:00",
+    "timestamp": "2023-12-01T21:46:07.059Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "1701467181552tq2lmqhllwk",
+      "clientTimestamp": "2023-12-01T21:46:21.553Z"
+    },
+    "text": "És összesen?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:46:21+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:46:21.577Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "110dbf90-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "Sajnos erre nem tudok válaszolni, kérdezz mást a BME VIK szakmai gyakorlattal kapcsolatban.",
+    "inputHint": "acceptingInput",
+    "replyToId": "110dbf90-9093-11ee-a05b-3ffae79d6c94",
+    "id": "12588f10-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:46:23+01:00",
+    "timestamp": "2023-12-01T21:46:23.745Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "1701467315086ldqe6wuafsc",
+      "clientTimestamp": "2023-12-01T21:48:35.086Z"
+    },
+    "text": "Összesen mennyit kell dolgozni a szakmai gyakorlaton?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:48:35+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:48:35.123Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "60a74030-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A BME VIK szakmai gyakorlatának összes időtartama a képzéstől függ. A villamosmérnöki alapképzési szakon legalább hat hétig (240 munkaóra), míg a mérnökinformatikus alapképzési szakon legalább nyolc hétig (320 munkaóra) kell dolgozni a szakmai gyakorlaton.",
+    "inputHint": "acceptingInput",
+    "replyToId": "60a74030-9093-11ee-a05b-3ffae79d6c94",
+    "id": "62e8f2d0-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:48:38+01:00",
+    "timestamp": "2023-12-01T21:48:38.909Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "17014673730611gny2z1brbf",
+      "clientTimestamp": "2023-12-01T21:49:33.061Z"
+    },
+    "text": "Miket kell leadni, hogy elfogadják a gyakorlatot?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:49:33+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:49:33.095Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "83351370-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A BME VIK szakmai gyakorlatának elfogadásához be kell nyújtani a szükséges dokumentumokat.",
+    "inputHint": "acceptingInput",
+    "replyToId": "83351370-9093-11ee-a05b-3ffae79d6c94",
+    "id": "850d7cf0-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:49:36+01:00",
+    "timestamp": "2023-12-01T21:49:36.191Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "17014673979213x28k818l6s",
+      "clientTimestamp": "2023-12-01T21:49:57.921Z"
+    },
+    "text": "Mik azok?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:49:57+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:49:57.963Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "9207a1b0-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A BME VIK szakmai gyakorlatának elfogadásához a hallgatónak be kell nyújtania a kérelmet és a feladatlapot.",
+    "inputHint": "acceptingInput",
+    "replyToId": "9207a1b0-9093-11ee-a05b-3ffae79d6c94",
+    "id": "93c38280-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:50:00+01:00",
+    "timestamp": "2023-12-01T21:50:00.872Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "17014674170552h8d2hclazf",
+      "clientTimestamp": "2023-12-01T21:50:17.055Z"
+    },
+    "text": "Mi az a feladatlap?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:50:17+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:50:17.094Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "9d6eca60-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A feladatlap a BME VIK szakmai gyakorlatának elfogadásához a 4. melléklet szerinti feladatlap.",
+    "inputHint": "acceptingInput",
+    "replyToId": "9d6eca60-9093-11ee-a05b-3ffae79d6c94",
+    "id": "9ed9cc10-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:50:19+01:00",
+    "timestamp": "2023-12-01T21:50:19.473Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "17014675123194d3ez32g28q",
+      "clientTimestamp": "2023-12-01T21:51:52.319Z"
+    },
+    "text": "És mi a kérelem?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:51:52+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:51:52.381Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "d63a6ed0-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "A kérelem a BME VIK szakmai gyakorlatának elfogadásához a gyakorlat megkezdése előtt kell benyújtani. A kérelem benyújtását követően a Budapesti Műszaki Egyetem Villamosmérnöki és Informatikai Kara hozza meg a döntést a szakmai gyakorlat engedélyezéséről.",
+    "inputHint": "acceptingInput",
+    "replyToId": "d63a6ed0-9093-11ee-a05b-3ffae79d6c94",
+    "id": "d81940f0-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:51:55+01:00",
+    "timestamp": "2023-12-01T21:51:55.519Z"
+  },
+  {
+    "channelData": {
+      "clientActivityID": "1701467545414sh72fpgkul8",
+      "clientTimestamp": "2023-12-01T21:52:25.414Z"
+    },
+    "text": "A gyak után kell valamit beadni?",
+    "textFormat": "plain",
+    "type": "message",
+    "channelId": "emulator",
+    "from": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "name": "User",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "localTimestamp": "2023-12-01T22:52:25+01:00",
+    "localTimezone": "Europe/Budapest",
+    "timestamp": "2023-12-01T21:52:25.453Z",
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "id": "e9f0d1d0-9093-11ee-a05b-3ffae79d6c94",
+    "recipient": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "serviceUrl": "http://localhost:64238"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:64238",
+    "channelId": "emulator",
+    "from": {
+      "id": "03784530-9093-11ee-a461-5da9f5f94a15",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "03790880-9093-11ee-a05b-3ffae79d6c94|livechat"
+    },
+    "recipient": {
+      "id": "8c5824a3-f41c-4cb7-ac0d-edf732e1d7d0",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "Igen, a gyakorlat után szükséges bizonyos dokumentumokat beadni a BME VIK szakmai gyakorlatának elfogadásához. Ezek közé tartozik a gyakorlati helyről kapott igazolás, valamint a gyakorlati beszámoló és a gyakorlati hely értékelése.",
+    "inputHint": "acceptingInput",
+    "replyToId": "e9f0d1d0-9093-11ee-a05b-3ffae79d6c94",
+    "id": "ec09c6c0-9093-11ee-a05b-3ffae79d6c94",
+    "localTimestamp": "2023-12-01T22:52:28+01:00",
+    "timestamp": "2023-12-01T21:52:28.972Z"
+  }
+]

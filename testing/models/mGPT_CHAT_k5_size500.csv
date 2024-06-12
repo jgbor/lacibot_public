@@ -1,0 +1,8 @@
+Question,Human Answer,AI Answer,AI Evaluation
+Ki a tanszéki felelős?,Dr. Blázovics László, Dr,CORRECT
+Hol találom meg?,QB223-ban, ,INCORRECT
+Mennyit kell dolgozni mérnökinfó alapszakon?,320 órát (8 munkahét), ,CORRECT
+És villamosmérnökként?,240 órát (6 hét), ,INCORRECT
+Hetente mennyit lehet maximum?,"Nyáron 40 órát, szorgalmi időszakban 20 órát", ,CORRECT
+Mikor lehet kezdeni a nyári gyakorlatot?,Vizsgaidőszak végétől javasolt, ,CORRECT
+"Ha végzek, mit kell leadni?","Munkanaplót, igazolást a gyakorlat elvégzéséről, szakmai beszámolót", ,CORRECT
